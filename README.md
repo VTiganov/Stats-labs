@@ -1,0 +1,1 @@
+## This repository is used to share laboratory works on "Mathematical statistics and data analysis."
