@@ -56,7 +56,6 @@ matplotlib-inline==0.1.7
 mdurl==0.1.2
 meson==1.7.0
 mistune==3.1.2
-mlpack @ file:///home/vadim/.cache/yay/mlpack/src/build/src/mlpack/bindings/python
 more-itertools==10.6.0
 nbclient==0.10.2
 nbconvert==7.16.6
